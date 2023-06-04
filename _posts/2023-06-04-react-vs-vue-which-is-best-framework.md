@@ -4,7 +4,7 @@ Hello everyone Today i'm talking about which framework is best fro UI developmen
 
 I'm a frontend software engineer and i work at React or vue and i have a more then 3 years of experience of both technology.
 
-![React vs vue community](../images/reactVsVue.png)
+![React vs vue community](images/reactVsVue.png)
 
 ## These are the points which compare both framework
 
@@ -36,7 +36,7 @@ We all know technology is not the thing where single person build maintain and h
 
 When i talk about the community of the both framework React has bigger community. It might be possible because React has a part of Facebook a big social media gient but it's a truth. You can see the below image
 
-![React vs vue community](../images/community-React-vs-Vue.png)
+![React vs vue community](images/community-React-vs-Vue.png)
 
 ## Speed
 
